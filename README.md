@@ -2,7 +2,7 @@
 
 **Background Remover Pro** is a user-friendly desktop application built with Python and `customtkinter` that lets you remove the background from images with a single click using the powerful [rembg](https://github.com/danielgatis/rembg) library.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Background+Remover+Pro+Screenshot) <!-- Replace with real screenshot URL if available -->
+![App Screenshot](dist/background.png)<!-- Replace with real screenshot URL if available -->
 
 ---
 
